@@ -26,7 +26,3 @@ You can modify the script to suit your specific needs by changing the following 
 ## Limitations
 
 Note that this script may not work for all websites, as the HTML structure and link format can vary. You may need to modify the script to suit the specific website you are scraping.
-
-## Acknowledgments
-
-- This project was inspired by [Web-Scraper](https://github.com/sanix-sandel/Web-Scraper) by [Sandel Oluwadamilola](https://github.com/sanix-sandel).
